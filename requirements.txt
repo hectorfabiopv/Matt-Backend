@@ -2,3 +2,6 @@ fastapi
 uvicorn
 sympy
 python-multipart
+# Se debe instalar tesseract, en mi caso: brew install tesseract
+pytesseract
+opencv-python
